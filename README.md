@@ -1,7 +1,7 @@
 <h1 align="center">I'm João</h1>
 <h3 align="center">A passionate automation developer from Belo Horizonte</h3>
 
-- 📫 How to reach me **sitegazire@pm.me**
+- 📫 How to reach me **gazire@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
