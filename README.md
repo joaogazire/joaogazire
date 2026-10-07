@@ -1,5 +1,5 @@
 <h1 align="center">I'm João</h1>
-<h3 align="center">A passionate automation developer from Belo Horizonte</h3>
+<h3 align="center">A passionate automation developer from Belo Horizonte :brazil:</h3>
 
 - 📫 How to reach me **gazire@pm.me**
 
