@@ -1,61 +1,56 @@
-<h1 align="center">I'm João</h1>
-<h3 align="center">A passionate automation developer from Belo Horizonte :brazil:</h3>
+<h1 align="center">Hi, I'm João 👋</h1>
+<h3 align="center">Software Engineer · Python, backend & automation · Belo Horizonte 🇧🇷</h3>
 
-- 📫 How to reach me **gazire@pm.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joaogazire" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaogazire" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/joaogazire" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gazire@pm.me"><img src="https://img.shields.io/badge/Email-gazire@pm.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<h4 align="left">💻 Programming & Scripting</h4>
-<table>
-  <tr>
-    <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-    <td><a href="https://www.haskell.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/></a></td>
-    <td><a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
-    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
-  </tr>
-</table>
+### 🧠 About me
 
-<h4 align="left">🗄️ Databases & Data Science</h4>
-<table>
-  <tr>
-    <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td><a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
-    <td><a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></td>
-    <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-    <td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-    <td><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
-  </tr>
-</table>
+I build systems that watch, extract and react to data in real time, from scrapers and bots to the APIs, infrastructure and monitoring behind them.
 
-<h4 align="left">☁️ Cloud, DevOps & OS</h4>
-<table>
-  <tr>
-    <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-    <td><a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a></td>
-  </tr>
-</table>
+---
 
-<h4 align="left">⚙️ Automation, APIs & Web</h4>
-<table>
-  <tr>
-    <td><a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a></td>
-    <td><a href="https://ifttt.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/></a></td>
-    <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-  </tr>
-</table>
+### 🚀 Featured projects
+
+- **[Cão Vigilante](https://github.com/USERNAME/REPO)** — 24/7 service on Oracle Cloud that listens to deal channels (Promobit, Pelando) through Telegram's MTProto API and filters the offers that matter
+- **[Vale Train Monitor](https://github.com/USERNAME/REPO)** — scrapes Vitória–Minas train availability for economy and executive classes and emails users the moment seats open on their dates
+- **[Cartolinha](https://github.com/USERNAME/REPO)** — smart auto-lineup builder for Cartola FC that analyzes player data to pick the best squad each round, deployed on Render
+- **[Tier List](https://github.com/USERNAME/REPO)** — full-stack TierMaker-style app with S–D ranking, user accounts and a public gallery of example lists
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,bash,c,cpp" alt="Languages"/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,graphql,react,postman" alt="Backend & APIs"/>
+
+**Databases & messaging**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite,elasticsearch,kafka,rabbitmq" alt="Databases & messaging"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,terraform,ansible,githubactions,nginx,cloudflare,git" alt="Cloud & DevOps"/>
+
+**Observability & automation**
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry,selenium" alt="Observability & automation"/>
+
+**Data & ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Data & ML"/>
+
+<sub>Also worked with: Oracle Cloud, pandas, Playwright, MATLAB, Haskell, Arduino.</sub>
+
+---
+
+<p align="center"><i>Always building something that runs while I sleep.</i></p>
