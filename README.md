@@ -16,10 +16,32 @@ I build systems that watch, extract and react to data in real time, from scraper
 
 ### 🚀 Featured projects
 
-- **[Cão Vigilante](https://github.com/USERNAME/REPO)** — 24/7 service on Oracle Cloud that listens to deal channels (Promobit, Pelando) through Telegram's MTProto API and filters the offers that matter
-- **[Vale Train Monitor](https://github.com/USERNAME/REPO)** — scrapes Vitória–Minas train availability for economy and executive classes and emails users the moment seats open on their dates
-- **[Cartolinha](https://github.com/USERNAME/REPO)** — smart auto-lineup builder for Cartola FC that analyzes player data to pick the best squad each round, deployed on Render
-- **[Tier List](https://github.com/USERNAME/REPO)** — full-stack TierMaker-style app with S–D ranking, user accounts and a public gallery of example lists
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/joaogazire/joaogazire/main/assets/cao-vigilante.png" alt="Cão Vigilante" width="100%"/><br/>
+      <b>Cão Vigilante</b><br/>
+      <sub>24/7 service on Oracle Cloud that listens to deal channels (Promobit, Pelando) through Telegram's MTProto API and filters the offers that matter</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/joaogazire/joaogazire/main/assets/vagou.png" alt="Vale Train Monitor" width="100%"/><br/>
+      <b>Vale Train Monitor</b><br/>
+      <sub>Scrapes Vitória–Minas train availability for economy and executive classes and emails users the moment seats open on their dates</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/joaogazire/joaogazire/main/assets/cartolinha.png" alt="Cartolinha" width="100%"/><br/>
+      <b>Cartolinha</b><br/>
+      <sub>Smart auto-lineup builder for Cartola FC that analyzes player data to pick the best squad each round, deployed on Render</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/joaogazire/joaogazire/main/assets/tierlist.png" alt="Tierliste" width="100%"/><br/>
+      <b><a href="https://tierliste.duckdns.org">Tierliste</a></b><br/>
+      <sub>Full-stack TierMaker-style app with S–D ranking, user accounts and a public gallery of example lists</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
